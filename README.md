@@ -8,7 +8,15 @@ Email: abcdnitishk@gmail.com | LinkedIn: https://www.linkedin.com/in/nitish-kuma
 - End-to-end delivery: RTL design → simulation → synthesis → real hardware testing.
 
 ## Skills & Tools
-Verilog, Embedded C, MATLAB, Lattice Radiant, Vivado, ModelSim, GTKWave, MIPI CSI-2, VGA, SPI, QSPI, ESP32
+Languages: Verilog, Embedded C, MATLAB, TCL
+
+EDA Tools: Lattice Radiant, Vivado, Yosys, ModelSim, GTKWave
+
+Hardware: FPGA Boards, ESP32, Arduino, Raspberry Pi, 8051, 8055
+
+Protocols: MIPI CSI-2, VGA, SPI, QSPI, DVP
+
+OS: Linux (Ubuntu), Windows
 
 ## Selected Projects
 - **OV5647 MIPI → VGA** — Implemented MIPI receiver and displayed camera output on VGA (link to folder).  
